@@ -17,8 +17,11 @@ Made entirely with HTML, CSS, and JavaScript.
 How to Play:
 
 --> Open the index.html file in your web browser.
+
 --> Click on the moles as they appear within the 20-second time limit.
+
 --> Your score will be displayed prominently on the screen.
+
 --> Try to beat your own high score or challenge your friends!
 
 
